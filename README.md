@@ -2,10 +2,10 @@
 
 LearnJS 計畫旨在精進 JavaScript 的能力，而非另外打造一個新的函式庫。
 
-LearnJS 計畫形式如同讀書會一樣，而目前主題的部分為：
+LearnJS 計畫形式如同讀書會一樣，而近期討論的部分為兩個主題輪流舉辦：
 
-單周主題：討論 JavaScript 基礎概念、進階概念（如閉包、提升、call by value...等等）
-雙周主題：參考對象為 JavaScript 函式庫 Lodash 的熱門 API 並且重新以 vanillaJS 實現，並接著重構、參考、比較與討論來進一步的加強成員間的 JS 技術。
+主題：討論 JavaScript 基礎概念、進階概念（如閉包、提升、call by value...等等)。
+主題：參考對象為 JavaScript 函式庫 Lodash 的熱門 API 並且重新以 vanillaJS 實現，並接著重構、參考、比較與討論來進一步的加強成員間的 JS 技術。
 
 ## 活動公告
 
