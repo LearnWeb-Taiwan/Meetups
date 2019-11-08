@@ -69,12 +69,11 @@ LearnJS 計畫形式如同讀書會一樣，而目前主題的部分為：
 
 ## 資源參考
 
-- Lodash
-
-[website - Lodash official website](https://lodash.com/docs/4.17.15)<br>
-[article - You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore)<br>
-[article - Lodash: 10 Javascript Utility Functions That You Should Probably Stop Rewriting](https://colintoh.com/blog/lodash-10-javascript-utility-functions-stop-rewriting)<br>
-[article - lodash 程式碼實現](https://siddharam.com.tw/post/20190423/)<br>
-[article - lodash 常用/最频繁使用的方法](https://blog.csdn.net/Embrace924/article/details/80757854)<br>
-[article - lodash 常用 API](https://blog.poetries.top/2018/12/06/lodash-api/)<br>
+- Lodash<br>
+  [website - Lodash official website](https://lodash.com/docs/4.17.15)<br>
+  [article - You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore)<br>
+  [article - Lodash: 10 Javascript Utility Functions That You Should Probably Stop Rewriting](https://colintoh.com/blog/lodash-10-javascript-utility-functions-stop-rewriting)<br>
+  [article - lodash 程式碼實現](https://siddharam.com.tw/post/20190423/)<br>
+  [article - lodash 常用/最频繁使用的方法](https://blog.csdn.net/Embrace924/article/details/80757854)<br>
+  [article - lodash 常用 API](https://blog.poetries.top/2018/12/06/lodash-api/)<br>
 
