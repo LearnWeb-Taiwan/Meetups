@@ -15,7 +15,9 @@ LearnJS 計畫形式如同讀書會一樣，而目前主題的部分為：
   日期：11/09 <br>
   地點：TBD <br>
   內容：試營運，檢視流程；JavaScript 基礎類別、方法、函式、判斷流程介紹。 <br>
-  
+ 
+ ## 活動預告
+
 - 第 1 期 ：<br>
   主題：Lodash API: \_.random <br>
   日期：TBD <br>
