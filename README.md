@@ -2,26 +2,49 @@
 
 LearnJS 計畫旨在精進 JavaScript 的能力，而非另外打造一個新的函式庫。
 
-LearnJS 計畫形式如同讀書會一樣，而目前主題參考對象為 JavaScript 函式庫 Lodash 的熱門 API 並且重新以 vanillaJS 實現，並接著重構、參考、比較與討論來進一步的加強成員間的 JS 技術。
+LearnJS 計畫形式如同讀書會一樣，而目前主題的部分為：
+
+單周主題：討論 JavaScript 基礎概念、進階概念（如閉包、提升、call by value...等等）
+雙周主題：參考對象為 JavaScript 函式庫 Lodash 的熱門 API 並且重新以 vanillaJS 實現，並接著重構、參考、比較與討論來進一步的加強成員間的 JS 技術。
 
 ## 活動公告
 
 **2019 年度** <br>
 - 第 0 期 ：<br>
-  主題：JavaScript 基礎類別、方法、函式介紹 <br>
-  日期：TBD <br>
+  主題：JavaScript 基礎：類別、方法、函式、判斷流程 <br>
+  日期：11/09 <br>
   地點：TBD <br>
-  內容：試運，檢視流程。 <br>
+  內容：試營運，檢視流程；JavaScript 基礎類別、方法、函式、判斷流程介紹。 <br>
+  
 - 第 1 期 ：<br>
-  主題：Lodash API: \_.debounce <br>
+  主題：Lodash API: \_.random <br>
   日期：TBD <br>
   地點：TBD <br>
-  內容：討論 Lodash \_.debounce 函式。 <br>
+  內容：討論 Lodash \_.random 函式。 <br>
+  
 - 第 2 期 ：<br>
+  主題：JavaScript 基礎：TBD <br>
+  日期：TBD <br>
+  地點：TBD <br>
+  內容：TBD <br>
+  
+- 第 3 期 ：<br>
   主題：Lodash API: \_.times <br>
   日期：TBD <br>
   地點：TBD <br>
   內容：討論 Lodash \_.times 函式。 <br>
+  
+- 第 4 期 ：<br>
+  主題：JavaScript 基礎：TBD <br>
+  日期：TBD <br>
+  地點：TBD <br>
+  內容：TBD <br>
+
+- 第 5 期 ：<br>
+  主題：Lodash API: \_.debounce <br>
+  日期：TBD <br>
+  地點：TBD <br>
+  內容：討論 Lodash \_.debounce 函式。 <br>
 
 ## 討論流程
 
