@@ -12,6 +12,16 @@ LearnJS 計畫形式如同讀書會一樣，而目前主題參考對象為 JavaS
   日期：TBD <br>
   地點：TBD <br>
   內容：試運，檢視流程。 <br>
+- 第 1 期 ：<br>
+  主題：Lodash API: \_.debounce <br>
+  日期：TBD <br>
+  地點：TBD <br>
+  內容：討論 Lodash \_.debounce 函式。 <br>
+- 第 2 期 ：<br>
+  主題：Lodash API: \_.times <br>
+  日期：TBD <br>
+  地點：TBD <br>
+  內容：討論 Lodash \_.times 函式。 <br>
 
 ## 討論流程
 
