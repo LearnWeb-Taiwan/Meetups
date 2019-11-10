@@ -14,15 +14,23 @@ LearnJS 計畫核心在於透過讀書會與小型講座，來學習 JavaScript 
 **2019 年度** <br>
 - **第 1 期**：<br>
   **主題**：JavaScript 講座：類別、函式、迴圈、判斷流程的基礎用法 <br>
+  **時間**：
   **場地**：11/09 11:00 COFFeee (新北市板橋區館前東路39號1) <br>
   **內容**：JavaScript 類別、函式、迴圈、判斷流程介紹，並且練習實作九九乘法表。 <br>
  
  ## 活動預告
  
 - **第 2 期 ：**<br>
-  **主題**：JavaScript 工作坊：自己實作一個 Bootstrap 元件。 <br>
+  **主題**：JavaScript & Bootstrap 工作坊：自己實作一個 Bootstrap 元件（navbar、tooltips、modal）。 <br>
+  **時間**：TBD <br>
   **場地**：TBD <br>
-  **內容**：透過實作 Bootstrap 元件來認識 JavaScript 中 DOM 與 BOM 的概念。 <br>
+  **內容**：Bootstrap 工作坊，透過實作 Bootstrap 元件來認識 JavaScript 中 DOM 與 BOM 的概念。 <br>
+
+- **第 3 期 ：**<br>
+  **主題**：JavaScript & Bootstrap 工作坊：自己實作一個 Bootstrap 元件（button、pagination、carousel）。 <br>
+  **時間**：TBD <br>
+  **場地**：TBD <br>
+  **內容**：Bootstrap 工作坊，透過實作 Bootstrap 元件來認識 JavaScript 中 DOM 與 BOM 的概念。 <br>
 
 ## 活動流程
 
