@@ -52,8 +52,8 @@ LearnJS 計畫核心在於透過讀書會與小型講座，來學習 JavaScript 
 
 ## 計畫團隊成員
 
-- 發起人：ShawnL
-- 曾參與活動成員：
+- **發起人**：[ShawnL](https://github.com/shawnlin0201)
+- **曾參與活動成員：**
 [ShawnL](https://github.com/shawnlin0201)、
 [YehYiTung](https://github.com/yehyitung)、
 [leepiny](https://github.com/leepiny)
