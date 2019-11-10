@@ -20,9 +20,9 @@ LearnJS 計畫核心在於透過讀書會與小型講座，來學習 JavaScript 
  ## 活動預告
  
 - **第 2 期 ：**<br>
-  **主題：**JavaScript 工作坊：自己實作一個 Bootstrap 元件。 <br>
-  **場地：**TBD <br>
-  **內容：**透過實作 Bootstrap 元件來認識 JavaScript 中 DOM 與 BOM 的概念。 <br>
+  **主題**：JavaScript 工作坊：自己實作一個 Bootstrap 元件。 <br>
+  **場地**：TBD <br>
+  **內容**：透過實作 Bootstrap 元件來認識 JavaScript 中 DOM 與 BOM 的概念。 <br>
 
 ## 活動流程
 
