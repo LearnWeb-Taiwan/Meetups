@@ -15,7 +15,7 @@ assignees: ''
   // 上方區塊可更改為 html, css, javascript 來讓程式碼上色
   // 這裡填入程式碼
 ```
-- 學了...
+
 - 學了...<br>
   心得敘述<br>
 ```javascript
