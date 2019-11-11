@@ -2,8 +2,8 @@
 
 LearnJS 計畫核心在於透過讀書會與小型講座，來學習 JavaScript 中基礎（類別、函式、控制流程的用法)到進階（閉包、提升、語法解析）的內容，而近期主題分為兩種：<br>
 
-**主題 1**：討論 JavaScript 基礎概念、進階概念（如閉包、提升、call by value...等等)講座。<br>
-**主題 2**：參考 JavaScript 、 JavaScript 函式庫等熱門 API 並且重新以 vanillaJS 實現，並接著重構、參考、比較與討論來進一步的加強成員間的 JS 技術的工作坊。<br>
+**主題 1**：講座型活動：分享 JavaScript 基礎概念、進階概念（如閉包、提升、call by value...等等)，並且帶入一點實作的部分。<br>
+**主題 2**：工作坊型活動：參考 JavaScript 、 JavaScript 函式庫等熱門 API 並且重新以 vanillaJS 實現，並接著重構、參考、比較與討論來進一步的加強成員間的 JS 技術。<br>
 
 ## 活動報名
 
