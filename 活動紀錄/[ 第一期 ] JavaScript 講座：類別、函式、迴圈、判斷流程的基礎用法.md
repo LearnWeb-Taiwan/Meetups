@@ -51,13 +51,35 @@ sample('Hello, function!')
 - 透過 new 關鍵字建立
 
 #### 宣告函式 (Function Declaration)
-#### 函式運算式 (Function Expressions)
-#### new Function
+透過 function 關鍵字來建立函式：
+```js
+function sample(){
 
-#### 隱式建立
-#### 函式提升 (Hoisting)
-#### 作用域 (Scope)
-#### 閉包 (Closure)
+}
+```
+#### 函式運算式 (Function Expressions)
+透過 function 關鍵字來建立函式：
+```js
+var sample = function (){
+
+}
+```
+由於 `function` 也是資料型態的一種，我們宣告完畢後，可以藉由記憶體位置去找到該函式。
+#### new Function
+透過 new 關鍵字建立函式：
+```js
+var sample = new Function(變數名稱，函式執行內容)
+```
+
+
+#### 待下次講座補充的內容：
+- 匿名函式
+- 立即呼叫函式 (IIFE, Immediately Invoked Function Expression)
+- 函式提升、變數提升 (Hoisting)
+- 隱式建立變數
+- 函式提升 (Hoisting)
+- 作用域 (Scope)
+- 閉包 (Closure)
 
 ---
 ### 參照方式
@@ -71,16 +93,16 @@ sample('Hello, function!')
 #### call by value
 當 B 變數透過賦值運算子 `=` 接收來自 A 變數的值時，若來源 B 變數數值資料型態為 **基本型態**
 ```js
-let A = 'Hello, JavaScript.'
-let B = A // console.log 得到的結果為 'Hello, JavaScript.'
+var A = 'Hello, JavaScript.'
+var B = A // console.log 得到的結果為 'Hello, JavaScript.'
           // 這裡記憶體儲存的 'Hello, JavaScript.' 是一份全新的數值，與 A 變數的數值無關。
 ```
 
 ####  call by refference
 當 B 變數透過賦值運算子 `=` 接收來自 A 變數的值時，若來源 B 變數數值資料型態為 **複雜型態**
 ```js
-let A = { 'name': 'Shawn', 'age': 25 }
-let B = A // console.log 得到的結果為 { 'name': Shawm, 'age': 25 } 
+var A = { 'name': 'Shawn', 'age': 25 }
+var B = A // console.log 得到的結果為 { 'name': Shawm, 'age': 25 } 
           // 這裡記憶體儲存的 { 'name': Shawm, 'age': 25 }  是指向到 A 變數容器指向的記憶體空間
           // 也就是說若修改 B 變數的資料時，實際上也是在改 A 指向的資料。
 console.log(A.age) // 25
@@ -95,7 +117,7 @@ function change(obj){
   obj.age = 26 // 這裡會先去尋找 obj 的記憶體位置，並且撈取裡面 `key: age`，接著更改裡面的數值 `value`。
 }
 
-let obj = { 'name': 'Shawn', 'age': 25 }
+var obj = { 'name': 'Shawn', 'age': 25 }
 console.log(obj.age) // 25
 change(obj)
 console.log(obj.age) // 26
@@ -111,7 +133,7 @@ function change(obj){
   }
 }
 
-let obj = { 'name': 'Shawn', 'age': 25 }
+var obj = { 'name': 'Shawn', 'age': 25 }
 console.log(obj.name) // 'Shawn'
 console.log(obj.age) // 25
 change(obj)
