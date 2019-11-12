@@ -57,6 +57,7 @@ function sample(){
 
 }
 ```
+
 #### 函式運算式 (Function Expressions)
 透過 function 關鍵字來建立函式：
 ```js
@@ -65,12 +66,13 @@ var sample = function (){
 }
 ```
 由於 `function` 也是資料型態的一種，我們宣告完畢後，可以藉由記憶體位置去找到該函式。
+
 #### new Function
 透過 new 關鍵字建立函式：
 ```js
-var sample = new Function(變數名稱，函式執行內容)
+var sample = new Function(String: 函式名稱,String: 函式執行內容)
 ```
-
+但這種建立函式方式會需要解析字串，因此效能較差，多半不會使用這種方式建立函式。
 
 #### 待下次講座補充的內容：
 - 匿名函式
