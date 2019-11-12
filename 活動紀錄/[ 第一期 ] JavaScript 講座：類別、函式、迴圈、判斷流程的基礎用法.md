@@ -18,9 +18,11 @@ JavaScript 資料型態 (Data Type) 可分為 **基本型態** 與 **複雜型�
 - BigInt
 - Symbol (ES 6 新增)
 
-**複雜型態** (Non-primitive Data Type)
+**複雜型態** (Non-Primitive Data Type, Objects)
 - 物件 (Object)
 - 陣列 (Array)
+- 函式 (Function)
+- 不是基本型態的都在這裡，並且底層都是物件所衍伸的
 
 **要辨識資料型態最快方式是非基本型態的都是物件**
 
@@ -34,7 +36,8 @@ JavaScript 資料型態 (Data Type) 可分為 **基本型態** 與 **複雜型�
 - `call by value`
 - `call by refference`
 - `call by sharing`
-**但三者講的內容都是在指 `call by value` 中記憶體存取的概念**
+
+**但三者講的內容都是在指 `pass by value` 中記憶體存取的概念**
 
 **call by value**： <br>
 當 B 變數透過賦值運算子 `=` 接收來自 A 變數的值時，若來源 B 變數數值資料型態為 **基本型態**
@@ -47,7 +50,7 @@ let B = A // console.log 得到的結果為 'Hello, JavaScript.'
 **call by refference**： <br>
 當 B 變數透過賦值運算子 `=` 接收來自 A 變數的值時，若來源 B 變數數值資料型態為 **複雜型態**
 ```js
-let A = { 'name': Shawm, 'age': 25 }
+let A = { 'name': 'Shawn', 'age': 25 }
 let B = A // console.log 得到的結果為 { 'name': Shawm, 'age': 25 } 
           // 這裡記憶體儲存的 { 'name': Shawm, 'age': 25 }  是指向到 A 變數容器指向的記憶體空間
           // 也就是說若修改 B 變數的資料時，實際上也是在改 A 指向的資料。
@@ -57,16 +60,33 @@ console.log(A.age) // 26
 ```
 
 **call by sharing**： <br>
-若是透過 function 傳送參數
+透過 function 傳送參數引入物件，若讀取物件後更改內部的值，則會依循記憶體位置先找到該記憶體位置的內容，再改變內部數值，所以參考記憶體位置相同，因此內部改變會影響到外部的物件
 ```js
-function sample(obj){
-  obj = { 
-    'name': Shawm, 
-    'age': 25
+function change(obj){
+  obj.age = 26 // 這裡會先去尋找 obj 的記憶體位置，並且撈取裡面 `key: age`，接著更改裡面的數值 `value`。
+}
+
+let obj = { 'name': 'Shawn', 'age': 25 }
+console.log(obj.age) // 25
+change(obj)
+console.log(obj.age) // 26
+
+```
+
+透過 function 傳送參數引入物件，若將傳遞進來的變數賦值，則會在函式內部重新指向另一個記憶體位置，但外部的仍舊參考原本的記憶體位置，因此內部改變不影響到外部的物件。
+```js
+function change(obj){
+  obj = {            // 這裡已經透過賦值運算子 = 重新指向另一個物件了，因此在函式內部的 obj 指向的已經是另一個位置
+    'name': Sam, 
+    'age': 26
   }
 }
 
-let obj = { 'name': Shawm, 'age': 25 }
+let obj = { 'name': 'Shawn', 'age': 25 }
+console.log(obj.age) // 25
+change(obj)
+console.log(obj.name) // 'Shawn'
+console.log(obj.age) // 25
 ```
 ---
 ## 資料參考
