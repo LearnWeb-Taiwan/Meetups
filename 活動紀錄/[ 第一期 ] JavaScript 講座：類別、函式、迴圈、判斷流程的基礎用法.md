@@ -77,12 +77,13 @@ console.log(obj.age) // 26
 ```js
 function change(obj){
   obj = {            // 這裡已經透過賦值運算子 = 重新指向另一個物件了，因此在函式內部的 obj 指向的已經是另一個位置
-    'name': Sam, 
+    'name': 'Sam', 
     'age': 26
   }
 }
 
 let obj = { 'name': 'Shawn', 'age': 25 }
+console.log(obj.name) // 'Shawn'
 console.log(obj.age) // 25
 change(obj)
 console.log(obj.name) // 'Shawn'
