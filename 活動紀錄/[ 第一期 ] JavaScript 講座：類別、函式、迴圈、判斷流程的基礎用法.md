@@ -143,6 +143,10 @@ console.log(obj.name) // 'Shawn'
 console.log(obj.age) // 25
 ```
 ---
+## 迴圈
+---
+## 流程判斷
+---
 # 資料參考
 - [w3schools-data-type](https://www.w3schools.com/js/js_datatypes.asp)
 - [MDN-JavaScript-Function](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Guide/Functions)
