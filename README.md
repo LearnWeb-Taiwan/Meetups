@@ -35,6 +35,12 @@ LearnJS 計畫核心在於透過讀書會與小型講座，來學習 JavaScript 
   **場地**：TBD <br>
   **內容**：Bootstrap 工作坊，透過實作 Bootstrap 元件來認識 JavaScript 中 DOM 與 BOM 的概念。 <br>
 
+- **第 4 期 ：**<br>
+  **主題**：JavaScript & Bootstrap 工作坊：自己實作一個 Bootstrap 元件（carousel）。 <br>
+  **時間**：TBD <br>
+  **場地**：TBD <br>
+  **內容**：Bootstrap 工作坊，透過實作 Bootstrap 元件來認識 JavaScript。 <br>
+
 ## 活動流程
 
 **講座**
@@ -53,23 +59,12 @@ LearnJS 計畫核心在於透過讀書會與小型講座，來學習 JavaScript 
 - **回顧過去**：分析彼此間的程式碼與原始碼的差異。
 - **自由活動**：與成員與講師互相交流、認識朋友。
 
-## 計畫團隊成員
+## 成員
 
-- **發起人**：[ShawnL](https://github.com/shawnlin0201)
-- **曾參與活動成員：**
+- **計畫發起人**：[ShawnL](https://github.com/shawnlin0201)
+- **視覺設計**：[YehYiTung](https://github.com/yehyitung)
+- **曾參與計畫的成員（按字母排序排列）：**
+[leepiny](https://github.com/leepiny)、
 [ShawnL](https://github.com/shawnlin0201)、
-[YehYiTung](https://github.com/yehyitung)、
-[leepiny](https://github.com/leepiny)
-
-
-
-## 資源參考
-
-- Lodash<br>
-  [website - Lodash official website](https://lodash.com/docs/4.17.15)<br>
-  [article - You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore)<br>
-  [article - Lodash: 10 Javascript Utility Functions That You Should Probably Stop Rewriting](https://colintoh.com/blog/lodash-10-javascript-utility-functions-stop-rewriting)<br>
-  [article - lodash 程式碼實現](https://siddharam.com.tw/post/20190423/)<br>
-  [article - lodash 常用/最频繁使用的方法](https://blog.csdn.net/Embrace924/article/details/80757854)<br>
-  [article - lodash 常用 API](https://blog.poetries.top/2018/12/06/lodash-api/)<br>
+[YehYiTung](https://github.com/yehyitung)
 
