@@ -18,29 +18,28 @@ LearnJS 計畫核心在於透過讀書會與小型講座，來學習 JavaScript 
   **時間**：11/09 早上 11:00 <br>
   **場地**：COFFeee (新北市板橋區館前東路39號1) <br>
   **內容**：JavaScript 類別、函式、迴圈、判斷流程介紹，並且練習實作九九乘法表。 <br>
- 
- ## 活動預告
- 
+  
 - **第 2 期 ：**<br>
-  **主題**：JavaScript & Bootstrap 工作坊：自己實作一個 Bootstrap 元件（navbar、tooltips、modal）。 <br>
+  **主題**：JavaScript & Bootstrap 工作坊：自己實作一個 Bootstrap 元件。 <br>
   **時間**：11/17 早上 11:00<br>
   **場地**：Notch 咖啡工場 站前店 (台北市中正區信陽街6號) <br>
-  **內容**：Bootstrap 工作坊，透過實作 Bootstrap 元件來認識 JavaScript 中 DOM 與 BOM 的概念。 <br>
+  **內容**：透過實作 Bootstrap 元件來認識 JavaScript 中 DOM 與 BOM 的概念。 <br>
   **Bonus 主題**：如何快速利用 Markdown 打造你的專業筆記！ <br>
   **Bonus 主題**：由前端工程師角度分享專案開發流程。 <br>
   **Bonus 主題**：什麼？你還沒去過天瓏書店嗎？ <br>
+ 
+ ## 活動預告
+- **第 3 期 ：<br>
+  **主題**：SCSS & Bootstrap 工作坊：自己實作一個 Bootstrap 元件樣式 <br>
+  **時間**：11/24 早上 11:00<br>
+  **場地**：Notch 咖啡工場 站前店 (台北市中正區信陽街6號) <br>
+  **內容**：透過實作 Bootstrap 元件來認識 SCSS，並開發屬於自己的樣式表。 <br>
 
-- **第 3 期 ：**<br>
+- **第 4 期 ：**<br>
   **主題**：TBD <br>
   **時間**：TBD <br>
   **場地**：TBD <br>
   **內容**：TBD <br>
-
-- **第 4 期 ：**<br>
-  **主題**：JavaScript & Bootstrap 工作坊：自己實作一個 Bootstrap 元件（carousel）。 <br>
-  **時間**：TBD <br>
-  **場地**：TBD <br>
-  **內容**：Bootstrap 工作坊，透過實作 Bootstrap 元件來認識 JavaScript。 <br>
 
 ## 活動流程
 
@@ -53,11 +52,9 @@ LearnJS 計畫核心在於透過讀書會與小型講座，來學習 JavaScript 
 
 **工作坊**
 - **相見歡**：歡迎參與的成員，大家彼此互相介紹。
-- **開場**：主持人介紹本期討論的主題。
-- **知性探討**：成員分享自己對於本周討論主題。
+- **開場**：主持人介紹本期討論的主題與相關內容。
+- **實作時間**：成員實際開發程式碼並與其他成員互相討論。
 - **成員分享**：成員依序分享自己實現的程式碼，介紹一下自己的想法是如何實現的。
-- **鑑往知來**：若有原始碼可以參考，則一起欣賞原始碼如何撰寫的。
-- **回顧過去**：分析彼此間的程式碼與原始碼的差異。
 - **自由活動**：與成員與講師互相交流、認識朋友。
 
 ## 成員
@@ -66,5 +63,6 @@ LearnJS 計畫核心在於透過讀書會與小型講座，來學習 JavaScript 
 - **曾參與計畫的成員（按字母排序排列）：**
 [leepiny](https://github.com/leepiny)、
 [ShawnL](https://github.com/shawnlin0201)、
+[Saplingt](https://github.com/saplingt)、
 [YehYiTung](https://github.com/yehyitung)
 
