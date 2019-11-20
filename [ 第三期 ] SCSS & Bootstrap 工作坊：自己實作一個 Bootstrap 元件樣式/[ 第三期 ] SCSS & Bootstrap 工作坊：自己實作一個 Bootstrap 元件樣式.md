@@ -109,9 +109,19 @@
 - ::first-letter
 - ::first-line
 
-# SCSS
+# SASS/SCSS
+- SASS
+- SCSS
+
+## Why SCSS
+- 解決 CSS 常遇到的問題
+- 重工
+- 牽一髮而動全身
+- 瀏覽器前綴
+- 函式
 
 ------
 # 資料參考
+- [SASS 官網](https://sass-lang.com/)
 - [w3schools-css](https://www.w3schools.com/css/css_selectors.asp)
 - [ithelp-30天掌握Sass語法](https://ithelp.ithome.com.tw/users/20040221/ironman/562)
