@@ -67,6 +67,6 @@ LearnJS 計畫核心在於透過讀書會與小型講座，來學習 JavaScript 
 [charleswanghc](https://github.com/charleswanghc)、
 [leepiny](https://github.com/leepiny)、
 [ShawnL](https://github.com/shawnlin0201)、
-[Saplingt](https://github.com/saplingt)<span style="display:none">test</span>、
+[Saplingt](https://github.com/saplingt)、
 [YehYiTung](https://github.com/yehyitung)
 
