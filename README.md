@@ -28,12 +28,13 @@ LearnJS 計畫核心在於透過讀書會與小型講座，來學習 JavaScript 
   **Bonus 主題**：由前端工程師角度分享專案開發流程。 <br>
   **Bonus 主題**：什麼？你還沒去過天瓏書店嗎？ <br>
  
- ## 活動預告
 - **第 3 期 ：**<br>
   **主題**：SCSS & Bootstrap 工作坊：自己實作一個 Bootstrap 元件樣式 <br>
   **時間**：11/24 早上 11:00<br>
   **場地**：Notch 咖啡工場 站前店 (台北市中正區信陽街6號) <br>
   **內容**：透過實作 Bootstrap 元件來認識 SCSS，並開發屬於自己的樣式表。 <br>
+
+ ## 活動預告
 
 - **第 4 期 ：**<br>
   **主題**：TBD <br>
@@ -59,10 +60,13 @@ LearnJS 計畫核心在於透過讀書會與小型講座，來學習 JavaScript 
 
 ## 成員
 
-- **計畫發起人**：[ShawnL](https://github.com/shawnlin0201)
+- **社群計畫發起人**：[ShawnL](https://github.com/shawnlin0201)
+- **社群主視覺設計**：[YehYiTung](https://github.com/yehyitung)
+
 - **曾參與計畫的成員（按字母排序排列）：**
+[charleswanghc](https://github.com/charleswanghc)、
 [leepiny](https://github.com/leepiny)、
 [ShawnL](https://github.com/shawnlin0201)、
-[Saplingt](https://github.com/saplingt)、
+[Saplingt](https://github.com/saplingt)<span style="display:none">test</span>、
 [YehYiTung](https://github.com/yehyitung)
 
