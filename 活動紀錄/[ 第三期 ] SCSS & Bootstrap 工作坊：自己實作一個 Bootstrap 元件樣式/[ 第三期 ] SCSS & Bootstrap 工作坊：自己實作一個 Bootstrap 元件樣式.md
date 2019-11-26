@@ -2,7 +2,7 @@
 
 **第 3 期 ：**<br>
 **主題**：SCSS & Bootstrap 工作坊：自己實作一個 Bootstrap 元件樣式。 <br>
-**時間**：11/17 早上 11:00<br>
+**時間**：11/24 早上 11:00<br>
 **場地**：Notch 咖啡工場 站前店 (台北市中正區信陽街6號) <br>
 **內容**：透過實作 Bootstrap 元件來認識 SCSS，並開發屬於自己的樣式表。 <br>
 **簡報**：[連結](https://docs.google.com/presentation/d/e/2PACX-1vRrajKCE7pUJKOPBY-mwJpy2OH1HmXxB1tHpxZxYP81Dtq4jdFs-hCHR8uSb6U1UZQO6_ThR8NHG-0s/pub?start=false&loop=false&delayms=60000)<br>
