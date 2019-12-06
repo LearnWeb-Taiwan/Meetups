@@ -5,6 +5,7 @@
 **時間**：12/7 早上 11:00<br>
 **場地**：Notch 咖啡工場 站前店 (台北市中正區信陽街6號) <br>
 **內容**：以 TDD 開發思維，使用 Mocha.js 來撰寫測試程式碼；並透過 Travis CI 部屬來執行自動化測試。 <br>
+**簡報**：[連結](https://docs.google.com/presentation/d/e/2PACX-1vT-o15xnGsLCU8RsSV7GmtQpiweHO1fn4tvHoVAn70Z5Ry5_BN6tCaFAiYIOcnx1rHzRdcPCNpR7_Bx/pub?start=false&loop=false&delayms=60000)
 
 # 簡報
 
