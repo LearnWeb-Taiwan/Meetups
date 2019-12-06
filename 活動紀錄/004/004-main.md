@@ -112,6 +112,38 @@ describe('add function test', () => {
 
 執行 `npm test` 秀出檢驗結果
 
+# 單元測試開發模式
+依據不同的開發模式與順序可分為：
+- TBD：先測試而後開發（Test Before Development）
+    - TDD：測試驅動開發（Test-Driven Development）
+    - BDD：行為驅動開發（Behavior Driven Development）
+- TAD：先開發而後測試（Test After Development）
+
+## TDD
+測試驅動開發（TDD，Test-Driven Development），是一種由藉由先撰寫測試，才實作功能並持續驗證是否通過測試的程式開發技巧。
+
+### TDD 優點
+- 避免後期產品程式碼（production code）過於龐大，認為再寫測試碼（test code）是浪費時間的事情
+
+### TDD 測試開發流程
+TDD 開發流程是一種 `red-green-refactor` 循環，透過循環流程來進行開發：
+- Red：紅燈階段，先撰寫測試程式，並執行測是使之進入測試失敗。
+- Green：快速開發功能實作，目的在於達成測試，使測試成功。
+- Refactor：重構實作功能的程式碼，並使程式碼持續通過測試。
+
+### TDD 建議
+- 單次循環內只針對一項測試條件（情境）。
+- 測試時只求實作功能部分，不要連擴充功能也做。
+- 測試條件要考慮邊際案例（edge case）。
+
+### TDD 議題
+- 如何有效安全的重構程式碼？
+- 測試程式碼的品質、可讀性、擴充性與產品程式碼是否也同樣重要？
+
+## BDD
+行為驅動開發（Behavior Driven Development），是一種基於測試驅動開發（TDD，Test-Driven Development）概念的開發方式，除了在開發程式前就要先撰寫測試程式碼之外，再撰寫測試程式碼前更要先撰寫測試規格書。而目前也有許多針對 BDD 開發方式的輔助工具。
+
+
 # 測試庫相關用法
 
 ## Mocha.js
