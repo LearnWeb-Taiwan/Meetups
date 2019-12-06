@@ -124,7 +124,7 @@ describe('測試環境說明', () => {
 ```
 
 ### Mocha.js 用法
-- describe()：
+- describe()：描述測試環境。
 - it()：描述測試案例（Test Case）。
 - before()：測試前先執行這個區塊內容。
 - after()：測試後先執行這個區塊內容。
