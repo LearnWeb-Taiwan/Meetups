@@ -15,12 +15,14 @@ LearnJS 計畫核心在於透過讀書會與小型講座，來學習 JavaScript 
 **2019 年度** <br>
 - **第 1 期**：<br>
   **主題**：JavaScript 講座：類別、函式、迴圈、判斷流程的基礎用法 <br>
+  **講者**：Shawn Lin<br>
   **時間**：11/09 早上 11:00 <br>
   **場地**：COFFeee (新北市板橋區館前東路39號1) <br>
   **內容**：JavaScript 類別、函式、迴圈、判斷流程介紹，並且練習實作九九乘法表。 <br>
   
 - **第 2 期 ：**<br>
   **主題**：JavaScript & Bootstrap 工作坊：自己實作一個 Bootstrap 元件。 <br>
+  **講者**：Shawn Lin<br>
   **時間**：11/17 早上 11:00<br>
   **場地**：Notch 咖啡工場 站前店 (台北市中正區信陽街6號) <br>
   **內容**：透過實作 Bootstrap 元件來認識 JavaScript 中 DOM 與 BOM 的概念。 <br>
@@ -30,12 +32,14 @@ LearnJS 計畫核心在於透過讀書會與小型講座，來學習 JavaScript 
  
 - **第 3 期 ：**<br>
   **主題**：SCSS & Bootstrap 工作坊：自己實作一個 Bootstrap 元件樣式 <br>
+  **講者**：Shawn Lin<br>
   **時間**：11/24 早上 11:00<br>
   **場地**：Notch 咖啡工場 站前店 (台北市中正區信陽街6號) <br>
   **內容**：透過實作 Bootstrap 元件來認識 SCSS，並開發屬於自己的樣式表。 <br>
 
 - **第 4 期 ：**<br>
   **主題**：喝杯 Mocha 工作坊 <br>
+  **講者**：Shawn Lin<br>
   **時間**：12/7 早上 11:00<br>
   **場地**：Notch 咖啡工場 站前店 (台北市中正區信陽街6號) <br>
   **內容**：以 TDD 開發思維，使用 Mocha.js 來撰寫測試程式碼；並透過 Travis CI 部屬來執行自動化測試。 <br>
@@ -43,7 +47,15 @@ LearnJS 計畫核心在於透過讀書會與小型講座，來學習 JavaScript 
  ## 活動預告
 
 - **第 5 期 ：**<br>
+  **主題**：jQuery<br>
+  **講者**：Saplin<br>
+  **時間**：TBD <br>
+  **場地**：TBD <br>
+  **內容**：TBD <br>
+
+- **第 6 期 ：**<br>
   **主題**：TBD <br>
+  **講者**：TBD <br>
   **時間**：TBD <br>
   **場地**：TBD <br>
   **內容**：TBD <br>
