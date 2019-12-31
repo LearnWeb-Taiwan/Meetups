@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>人生的跑馬燈</title>
+</head>
+<style>
+    body {
+        min-height: 100vh;
+        margin: 0;
+        background: url('jpg/bg01.jpg');
+        /* Background Photo by FWStudio from Pexels */
+        background-size: cover;
+    }
+
+    .d-flex {
+        display: flex;
+    }
+
+    .justify-content-center {
+        justify-content: center;
+    }
+
+    .align-items-center {
+        align-items: center;
+    }
+
+    .life-photo {
+        position: relative;
+        width: 30%;
+        min-width: 280px;
+        padding-bottom: calc(30% + 100px);
+        border-radius: 5px;
+        box-shadow: 0 1px 6px 3px rgba(0, 0, 0, 0.4);
+        background: #fafafa;
+        transform: rotate(5deg);
+    }
+
+    @media (max-width: 936px) {
+        .life-photo {
+            padding-bottom: 380px;
+        }
+    }
+
+    .life-photo .inner-box {
+        position: absolute;
+        top: calc((100% - 100px)*0.1/2);
+        left: 50%;
+        width: 90%;
+        padding-bottom: 90%;
+        transform: translateX(-50%);
+    }
+
+    .life-photo .title {
+        display: flex;
+        align-items: center;
+        position: absolute;
+        bottom: 50px;
+        left: 50%;
+        font-size: 18px;
+        font-weight: 500;
+        white-space: nowrap;
+        transform: translateX(-50%);
+    }
+
+    .life-photo .title .link {
+        color: rgba(0, 0, 0, 0.8);
+        font-size: 20px;
+        font-weight: normal;
+        line-height: 28px;
+        text-decoration: none;
+        border-bottom: 2px solid rgba(0, 0, 0, 0.8);
+        margin-left: 5px;
+    }
+
+    .carousel {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border-radius: 3px;
+        overflow: hidden;
+    }
+
+    .carousel::after {
+        position: absolute;
+        top: 0;
+        left: 0;
+        content: "";
+        width: 100%;
+        height: 100%;
+        border-radius: 3px;
+        box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+    }
+
+    .carousel-items {
+        display: flex;
+    }
+
+    .carousel-items img {
+        position: relative;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        transition: all 1.5s ease;
+    }
+
+    .background-from {
+        position: fixed;
+        bottom: 10px;
+        right: 10px;
+        color: #fff;
+        font-size: 12px;
+    }
+</style>
+
+<body class="d-flex justify-content-center align-items-center">
+    <div class="life-photo">
+        <div class="inner-box">
+            <div class="carousel">
+                <div class="carousel-items">
+                    <img src="jpg/4class-01.jpg" alt="">
+                    <img src="jpg/4class-02.jpg" alt="">
+                    <img src="jpg/4class-03.jpg" alt="">
+                    <img src="jpg/4class-04.jpg" alt="">
+                    <img src="jpg/4class-05.jpg" alt="">
+                    <img src="jpg/4class-06.jpg" alt="">
+                    <img src="jpg/4class-07.jpg" alt="">
+                </div>
+            </div>
+        </div>
+        <div class="title">
+            Drawn by:
+            <a class="link" href="https://www.instagram.com/linkjcmj/">
+                &nbsp;&nbsp;Meng Ru Chiang&nbsp;&nbsp;&nbsp;&nbsp;
+            </a>
+        </div>
+    </div>
+    <div class="background-from">Background Photo by FWStudio from Pexels</div>
+</body>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script>
+    var currentImg = 1;
+    var imgLength = $('.carousel-items img').length;
+    var timer = 3500;
+    window.setInterval(function () {
+        if (currentImg < imgLength) {
+            $('.carousel-items img').css('left', -currentImg * 100 + '%');
+            currentImg++
+        } else {
+            $('.carousel-items img').css('left', '0');
+            currentImg = 1;
+        }
+
+    }, timer);
+</script>
+
+</html>
