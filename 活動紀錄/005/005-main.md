@@ -32,6 +32,12 @@ if (condition) {
   //  block of code to be executed if the condition is false
 }
 ```
+- 縮寫
+```
+condition ?
+block of code to be executed if the condition is true :
+block of code to be executed if the condition is false
+```
 
 ### if else and else if
 - 多個條件
@@ -62,3 +68,4 @@ switch(expression) {
 
 # 參考資源
 [w3school](https://www.w3schools.com/)
+[19種JS高縮寫法](https://kknews.cc/zh-tw/code/megyplz.html)
