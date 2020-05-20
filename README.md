@@ -40,23 +40,10 @@ LearnJS 計畫核心在於透過讀書會與小型講座，來學習 JavaScript 
 - **成員分享**：成員依序分享自己實現的程式碼，介紹一下自己的想法是如何實現的。
 - **會後活動**：依當期活動內容與講者、成員討論。
 
-## 成員
-
-- **社群計畫發起人**：[ShawnL](https://github.com/shawnlin0201)
-- **社群主視覺設計**：[YehYiTung](https://github.com/yehyitung)
-
-- **曾參與計畫的講師（按字母排序排列）：**
-[Saplingt](https://github.com/saplingt)、
-[ShawnL](https://github.com/shawnlin0201)
-- **曾參與計畫的成員（按字母排序排列）：**
-[charleswanghc](https://github.com/charleswanghc)、
-[leepiny](https://github.com/leepiny)、
-[Saplingt](https://github.com/saplingt)、
-[ShawnL](https://github.com/shawnlin0201)、
-[YehYiTung](https://github.com/yehyitung)
-
-
 ## Contributors ✨
+- **發起人：**📋[ShawnL](https://github.com/shawnlin0201)
+- **視覺設計：**🎨[YehYiTung](https://github.com/yehyitung)
+- **講師：**📢
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
