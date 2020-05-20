@@ -43,7 +43,7 @@ LearnJS 計畫核心在於透過讀書會與小型講座，來學習 JavaScript 
 - **社群主視覺設計**：[YehYiTung](https://github.com/yehyitung)
 
 - **曾參與計畫的講師（按字母排序排列）：**
-[Saplingt](https://github.com/saplingt)、
+[Saplingt](https://github.com/saplingt)
 - **曾參與計畫的成員（按字母排序排列）：**
 [charleswanghc](https://github.com/charleswanghc)、
 [leepiny](https://github.com/leepiny)、
