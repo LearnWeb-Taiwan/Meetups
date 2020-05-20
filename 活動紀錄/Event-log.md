@@ -59,3 +59,4 @@
 **時間**：2020/01/18 早上 11:00<br>
 **內容**：帶大家一起瞭解 Git、GitHub、GitHub Desktop 的差別與用法。 <br>
 **場地**：Notch 咖啡工場 站前店 (台北市中正區信陽街6號) <br>
+**簡報**：[連結](https://docs.google.com/presentation/d/e/2PACX-1vRTyoSjBsGDaCfRkC-U-YVQX6YICKAcxnHxYrROkUFN1FAlklzrfvwqOeeSU8DjvgIlGgkJQPDhJEQ0/pub?start=false&loop=false&delayms=60000)
