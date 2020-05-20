@@ -41,9 +41,9 @@ LearnJS 計畫核心在於透過讀書會與小型講座，來學習 JavaScript 
 - **會後活動**：依當期活動內容與講者、成員討論。
 
 ## Contributors ✨
-- **發起人：**📋[ShawnL](https://github.com/shawnlin0201)
-- **視覺設計：**🎨[YehYiTung](https://github.com/yehyitung)
-- **講師：**📢
+- 計畫發起人　📋
+- 主視覺設計　🎨
+- 講者　　　　📢
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
