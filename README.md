@@ -11,7 +11,7 @@ LearnJS 計畫核心在於透過讀書會與小型講座，來學習 JavaScript 
 
 ## 活動報名
 
-目前採自由報名、但仍建議前往活動前請先私訊 [ShawnL](https://www.facebook.com/profile.php?id=100004228181424) 確認。
+目前統一由 KKTIX 活動系統辦理，請於[這裡](https://learnweb-taiwan.kktix.cc/)報名，謝謝！
 
 ## 近期活動
 
