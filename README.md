@@ -22,7 +22,7 @@ LearnJS 計畫核心在於透過讀書會與小型講座，來學習 JavaScript 
 **場地**：Notch 咖啡工場 站前店 (台北市中正區信陽街6號) <br>
 **內容**：講解從專案到 CSS、JavaScript 中各種命名情境、陷阱與心得。 <br>
 
-## Contributors ✨
+## Contributors
 - 計畫發起人　📋
 - 主視覺設計　🎨
 - 講者　　　　📢
