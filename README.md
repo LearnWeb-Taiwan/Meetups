@@ -1,13 +1,9 @@
-# LearnJS-Project
+# Meetups
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-LearnJS 計畫核心在於透過讀書會與小型講座，來學習 JavaScript 中基礎（類別、函式、控制流程的用法)到進階（閉包、提升、語法解析）的內容，而近期主題分為：<br>
-
-**講座**：主講人分享有關於 JavaScript 相關的技術與概念。<br>
-**工作坊**：參考 JavaScript 及其熱門函式庫，並以 vanillaJS 重新實現部分功能，藉由重構、參考、比較與討論來進一步的加強成員間的 JavaScript 技術。<br>
-**讀書會**：閱讀熱門 JavaScript 相關書籍，成員間互相分享讀書心得與經驗談。<br>
+LearnWeb Meetups 舉辦各種有關於網頁開發的讀書會、工作坊及講座，主要面向正在自學網頁開發以及 Junior 工程師。
 
 ## 活動報名
 
