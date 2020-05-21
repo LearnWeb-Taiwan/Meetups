@@ -37,3 +37,9 @@ LearnWeb Meetups 舉辦各種有關於網頁開發的讀書會、工作坊及講
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+## License
+
+[MIT](https://github.com/LearnWeb-Taiwan/Meetups/blob/master/LICENSE)
+
+Copyright (c) 2020-present, LearnWeb Taiwan
