@@ -30,7 +30,7 @@ LearnWeb Meetups 舉辦各種有關於網頁開發的讀書會、工作坊及講
   <tr>
     <td align="center"><a href="https://github.com/yehyitung"><img src="https://avatars0.githubusercontent.com/u/45952431?v=4" width="100px;" alt=""/><br /><sub><b>yehyitung</b></sub></a><br /><a href="#design-yehyitung" title="Design">🎨</a></td>
     <td align="center"><a href="https://github.com/saplingt"><img src="https://avatars2.githubusercontent.com/u/48585454?v=4" width="100px;" alt=""/><br /><sub><b>saplingt</b></sub></a><br /><a href="#talk-saplingt" title="Talks">📢</a></td>
-    <td align="center"><a href="https://shawnlin0201.github.io/"><img src="https://avatars0.githubusercontent.com/u/45999699?v=4" width="100px;" alt=""/><br /><sub><b>ShawnL</b></sub></a><br /><a href="#talk-shawnlin0201" title="Talks">📢</a> <a href="#eventOrganizing-shawnlin0201" title="Event Organizing">📋</a></td>
+    <td align="center"><a href="https://shawnlin0201.github.io/"><img src="https://avatars0.githubusercontent.com/u/45999699?v=4" width="100px;" alt=""/><br /><sub><b>ShawnL</b></sub></a><br /><a href="#talk-shawnlin0201" title="Talks">📢</a> <a href="#eventOrganizing-shawnlin0201" title="Event Organizing">📋</a> <a href="#maintenance-shawnlin0201" title="Maintenance">🚧</a></td>
   </tr>
 </table>
 
