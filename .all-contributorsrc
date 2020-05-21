@@ -30,12 +30,13 @@
       "profile": "https://shawnlin0201.github.io/",
       "contributions": [
         "talk",
-        "eventOrganizing"
+        "eventOrganizing",
+        "maintenance"
       ]
     }
   ],
   "contributorsPerLine": 7,
-  "projectName": "LearnJS-Project",
+  "projectName": "Meetups",
   "projectOwner": "LearnWeb-Taiwan",
   "repoType": "github",
   "repoHost": "https://github.com",
