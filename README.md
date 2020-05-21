@@ -5,7 +5,7 @@
 
 LearnWeb Meetups 舉辦各種有關於網頁開發的讀書會、工作坊及講座，主要面向正在自學網頁開發以及 Junior 工程師。
 
-## 近期活動
+## Recent meetup
 
 **第 7 期 ：**<br>
 **主題**：從命名來提升專案品質<br>
@@ -14,7 +14,7 @@ LearnWeb Meetups 舉辦各種有關於網頁開發的讀書會、工作坊及講
 **場地**：Notch 咖啡工場 站前店 (台北市中正區信陽街6號) <br>
 **內容**：講解從專案到 CSS、JavaScript 中各種命名情境、陷阱與心得。 <br>
 
-## 活動報名
+## J
 
 目前統一由 KKTIX 活動系統辦理，請於[這裡](https://learnweb-taiwan.kktix.cc/)報名，謝謝！
 
