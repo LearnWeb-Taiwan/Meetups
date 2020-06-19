@@ -116,50 +116,31 @@ function doit(){
 function dontdoit(){console.log('failure.')}
 ```
 
+## Clean Code 簡易現場實作
+- 範例一
 ```js
-a = 3 // 系統限制
-b = 2 // 現在的量
+a = 3
+b = 2
 
 if (b < a){
-  doit() // 接受
+  doit()
 } else
 {
-  dontdoit() // 拒絕
+  dontdoit()
 }
 
-//
 function doit(){
   console.log('success.')
 }
 
-//
 function dontdoit(){console.log('failure.')}
-
-// 很遠很遠的地方
-doit() // do what?
 ```
-
+- 範例二
 ```js
-const BOOKING_ROOM_LIMIT= 3
-const currentBooking = 2
 
-if (currentBooking < BOOKING_ROOM_LIMIT) {
-  receiveBookingHandler()
-} else {
-  rejectBookingHandler()
-}
-
-function receiveBookingHandler(){
-  console.log('Booking success.')
-}
-
-function rejectBookingHandler(){
-  console.log('Booking failure.')
-}
 ```
 
-## Clean Code 簡易現場實作 10 min
-- 命名、重構
+## 反思
 
 # 參考項目
 
