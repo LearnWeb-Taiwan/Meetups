@@ -90,6 +90,73 @@
 # Clean Code 導讀
 
 ## 為何我們需要 Clean Code
+工程師目的在於解決問題，但如果今天需要靠程式碼解決的時候：
+- 想一下維護專案看程式碼的時間
+- 多人共同開發、開源合作
+- 在意小事，成就大業
+> 5S 精神：整理（seiri）、整頓（seiton）、清掃（seisou）、清潔（seiketsu）、躾（shitsuke）
+- bad smell
+
+### bad smell
+```js
+a = 3
+b = 2
+
+if (b < a){
+  doit()
+} else
+{
+  dontdoit()
+}
+
+function doit(){
+  console.log('success.')
+}
+
+function dontdoit(){console.log('failure.')}
+```
+
+```js
+a = 3 // 系統限制
+b = 2 // 現在的量
+
+if (b < a){
+  doit() // 接受
+} else
+{
+  dontdoit() // 拒絕
+}
+
+//
+function doit(){
+  console.log('success.')
+}
+
+//
+function dontdoit(){console.log('failure.')}
+
+// 很遠很遠的地方
+doit() // do what?
+```
+
+```js
+const BOOKING_ROOM_LIMIT= 3
+const currentBooking = 2
+
+if (currentBooking < BOOKING_ROOM_LIMIT) {
+  receiveBookingHandler()
+} else {
+  rejectBookingHandler()
+}
+
+function receiveBookingHandler(){
+  console.log('Booking success.')
+}
+
+function rejectBookingHandler(){
+  console.log('Booking failure.')
+}
+```
 
 ## Clean Code 簡易現場實作 10 min
 - 命名、重構
