@@ -7,6 +7,7 @@
 **時間**：2020/06/21 早上 11:00<br>
 **場地**：科技大樓 復興南路二段200號6樓-602室 <br>
 **內容**：由 Robert C. Martin 所撰寫的 Clean Code，從不同的原則、模式與實作，再到實際重構、啟發，一步一腳印的帶領我們認識何謂 Clean Code。那麼，我們自己又是如何看待的呢？。<br>
+**簡報**：[簡報](https://docs.google.com/presentation/d/e/2PACX-1vRQqjNXuQkAcw_HeHTS9hKV_05WY6r6b9RciTBTOPujGfrN5axA5g90OD8OZTtkU8_DX63ahBuRBn5v/pub?start=false&loop=false&delayms=60000)
 
 # 前言
 ## 讀書會
